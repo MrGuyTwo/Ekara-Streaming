@@ -27,7 +27,7 @@ EkaraStreamer_v2.exe|>=2
 
 ## Download
 
-[github-download]: https://github.com/MrGuyTwo/Ekara-Streaming/tree/main/releases
+[github-download]: [https://github.com/MrGuyTwo/Ekara-Streaming/tree/main/releases](https://github.com/MrGuyTwo/Ekara-Streaming/releases/tag/Ekara-Streaming_v1)
  - [`Ekara-Streaming`][github-download]
 
 ## Instalation
